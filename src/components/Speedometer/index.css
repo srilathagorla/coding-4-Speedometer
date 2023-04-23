@@ -1,0 +1,34 @@
+/* Write your CSS here */
+.container {
+  background-color: black;
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  color: #ffffff;
+}
+
+.img-size {
+  height: 200px;
+  width: 400px;
+}
+
+.accelerate {
+  margin: 30px;
+  border-radius: 10px;
+  background-color: blue;
+  color: #ffffff;
+}
+
+.apply-brakes {
+  margin: 30px;
+  border-radius: 10px;
+  background-color: transparent;
+  color: #ffffff;
+}
